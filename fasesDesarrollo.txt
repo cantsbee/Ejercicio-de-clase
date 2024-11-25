@@ -1,0 +1,4 @@
+El proyecto realizado constaba de dos archivos, un html y un css. 
+Dentro del html debiamos crear un listado de películas y añadirle estilos mediante el css. 
+Al llevar a cabo el proyecto se debían crear también ids y clases para poder alterar elementos específicos. 
+Por último, dentro del html se creó un apartado script para añadir funcionalidad. Aquí mediante un botón se eliminaba uno de los elementos de la lista
